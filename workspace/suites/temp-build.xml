@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="[NIGHTLY BUILD]" verbose="1" parallel="tests"
+	thread-count="4">
+	<test name="TC_PAM_90_HF05_HeaderNFooter_PretLogo">
+		<parameter name="seleniumBrowser" value="chrome" />
+		<classes>
+			<class name="com.ecm.webautomation.pret.tests.HomePageTestCases">
+				<methods>
+					<include name="TC_PAM_90_HF05_HeaderNFooter_PretLogo"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

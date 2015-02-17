@@ -1,0 +1,1260 @@
+[2015-02-16T13:55:42+0200] [INFO] Could not read chrome manifest 'file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/chrome.manifest'.
+
+[2015-02-16T13:55:42+0200] [INFO] LOG addons.xpi: startup
+
+[2015-02-16T13:55:42+0200] [INFO] LOG addons.xpi: Skipping unavailable install location app-system-local
+
+[2015-02-16T13:55:42+0200] [INFO] LOG addons.xpi: Skipping unavailable install location app-system-share
+
+[2015-02-16T13:55:42+0200] [INFO] LOG addons.xpi: Ignoring file entry whose name is not a valid add-on ID: C:\Windows\TEMP\anonymous3173693751036708447webdriver-profile\extensions\webdriver-staging
+
+[2015-02-16T13:55:42+0200] [INFO] LOG addons.xpi: checkForChanges
+
+[2015-02-16T13:55:42+0200] [INFO] LOG addons.xpi: No changes found
+
+[2015-02-16T13:55:42+0200] [WARNING] Trying to re-register CID '{e26dbdcd-d3ba-4ded-88c3-6cb07ee3e9e0}' already registered by file:///C:/Windows/TEMP/anonymous3173693751036708447webdriver-profile/extensions/fxdriver@googlecode.com/components/prompt_service.js.
+[2015-02-16T13:55:42+0200] [INFO] Native module at path 'C:\Windows\TEMP\anonymous3173693751036708447webdriver-profile\extensions\fxdriver@googlecode.com\platform\WINNT_x86-msvc\components\imehandler.dll' doesn't export symbol `NSModule`.
+
+[2015-02-16T13:55:42+0200] [INFO] Could not read chrome manifest 'file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/extensions/%7B972ce4c6-7e08-4474-a285-3208198ce6fd%7D/chrome.manifest'.
+
+[2015-02-16T13:55:42+0200] [INFO] While creating services from category 'profile-after-change', could not create service for entry 'Disk Space Watcher Service', contract ID '@mozilla.org/toolkit/disk-space-watcher;1'
+
+[2015-02-16T13:55:42+0200] [INFO] Warning: unrecognized command line flag -foreground
+
+[2015-02-16T13:55:43+0200] [SEVERE] NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIWinTaskbar.createTaskbarTabPreview]
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) active content on a secure page "http://www.youtube.com/player_api"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Pret_logo_142x142.jpg"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Pret_logo_hover_state.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Fixed_banner_logo.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Find_a_pret_pin.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Find_a_pret_mobile.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Facebook_regular_desktop.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Facebook_hover_desktop.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Google-plus_regular_desktop.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Google-plus_hover_desktop.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Twitter_regular_desktop.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Twitter_hover_desktop.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Instagram_regular_desktop.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Instagram_hover_desktop.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Pinterest_regular_desktop.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Pinterest_hover_desktop.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://origin.agilitycms.com/pretamanger-usa/Homepage/Homepage/Prets_hot_banner_desktop.jpg"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-uk/Homepage/Organic_coffee_still_desktop.jpg"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/twitter-64-copy-2.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/Pret_logo_regular.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/Pret_logo_hover_state.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/facebook-64-copy-2.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Facebook_regular_mobile.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Facebook_hover_mobile.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Twitter_regular_mobile.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Twitter_hover_mobile.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Instagram_regular_mobile.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Instagram_hover_mobile.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Pinterest_regular_mobile.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Pinterest_hover_mobile.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Google-plus_regular_mobile.png"
+[2015-02-16T13:55:51+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Google-plus_hover_mobile.png"
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property 'user-select'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property 'touch-action'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'cursor'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property 'zoom'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property '-moz-osx-font-smoothing'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property '-moz-osx-font-smoothing'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property '-moz-background-size'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property '-moz-osx-font-smoothing'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-inner-spin-button'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-search-cancel-button'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected color but found 'auto'.  Expected color but found '-webkit-focus-ring-color'.  Expected end of value but found '-webkit-focus-ring-color'.  Error in parsing value for 'outline'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'padding-bottom'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected end of value but found '\9 '.  Error in parsing value for 'margin-top'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected color but found 'auto'.  Expected color but found '-webkit-focus-ring-color'.  Expected end of value but found '-webkit-focus-ring-color'.  Error in parsing value for 'outline'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown pseudo-class or pseudo-element '-ms-input-placeholder'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-input-placeholder'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property 'user-select'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected color but found 'auto'.  Expected color but found '-webkit-focus-ring-color'.  Expected end of value but found '-webkit-focus-ring-color'.  Error in parsing value for 'outline'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property '-moz-osx-font-smoothing'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Unknown property 'zoom'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected end of value but found '\9 '.  Error in parsing value for 'background-color'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Unrecognized at-rule or error parsing at-rule '@-moz-viewport'.
+[2015-02-16T13:55:52+0200] [WARNING] Unrecognized at-rule or error parsing at-rule '@viewport'.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'font'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:52+0200] [WARNING] Error in parsing value for 'font'.  Declaration dropped.
+[2015-02-16T13:55:52+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:55:52+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:55:53+0200] [INFO] [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://app/modules/DownloadsTaskbar.jsm :: <TOP_LEVEL> :: line 131"  data: no]
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) active content on a secure page "http://www.youtube.com/player_api"
+[2015-02-16T13:55:53+0200] [INFO] Blocklist::_loadBlocklistFromFile: blocklist is disabled
+
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Pret_logo_142x142.jpg"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Pret_logo_hover_state.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Fixed_banner_logo.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Find_a_pret_pin.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Find_a_pret_mobile.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Facebook_regular_desktop.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Facebook_hover_desktop.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Google-plus_regular_desktop.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Google-plus_hover_desktop.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Twitter_regular_desktop.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Twitter_hover_desktop.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Instagram_regular_desktop.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Instagram_hover_desktop.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Pinterest_regular_desktop.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Pinterest_hover_desktop.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Pret_logo_142x142.jpg"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Pret_logo_hover_state.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://origin.agilitycms.com/pretamanger-usa/Homepage/Homepage/Prets_hot_banner_desktop.jpg"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-uk/Homepage/Organic_coffee_still_desktop.jpg"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/twitter-64-copy-2.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/twitter-64-copy-2.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/Pret_logo_regular.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/Pret_logo_hover_state.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/facebook-64-copy-2.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/facebook-64-copy-2.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Facebook_regular_mobile.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Facebook_hover_mobile.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Twitter_regular_mobile.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Twitter_hover_mobile.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Instagram_regular_mobile.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Instagram_hover_mobile.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Pinterest_regular_mobile.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Pinterest_hover_mobile.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Google-plus_regular_mobile.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Header_Images/Google-plus_hover_mobile.png"
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://origin.agilitycms.com/pretamanger-usa/Homepage/Prets_hot_banner_1400.jpg"
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/Afternoon_banner.jpg"
+[2015-02-16T13:55:53+0200] [WARNING] Use of Mutation Events is deprecated. Use MutationObserver instead.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property '-moz-border-radius-topleft'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property '-moz-border-radius-bottomleft'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property '-moz-border-radius-topright'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property '-moz-border-radius-bottomright'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Error in parsing value for 'cursor'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Error in parsing value for 'bottom'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property '-moz-background-size'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'blur('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:55:53+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:55:53+0200] [WARNING] Unknown property '-moz-background-size'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Error in parsing value for 'text-shadow'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:53+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:55:54+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:55:54+0200] [WARNING] Expected media feature name but found '-o-min-device-pixel-ratio'.
+[2015-02-16T13:55:54+0200] [WARNING] Expected media feature name but found 'min-device-pixel-ratio'.
+[2015-02-16T13:55:54+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/Afternoon_banner.jpg"
+[2015-02-16T13:55:54+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:55:54+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/Quick_Nav/Soups_regular_desktop.jpg"
+[2015-02-16T13:55:54+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:55:54+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/Quick_Nav/Soups_hover_desktop.jpg"
+[2015-02-16T13:55:54+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:55:54+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/Quick_Nav/About_regular_desktop.jpg"
+[2015-02-16T13:55:54+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:55:54+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/Quick_Nav/About_hover_desktop.jpg"
+[2015-02-16T13:55:54+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:55:54+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/Quick_Nav/Our_menu_regular_desktop.jpg"
+[2015-02-16T13:55:54+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:55:54+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/Quick_Nav/Our_menu_hover_desktop.jpg"
+[2015-02-16T13:55:54+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:55:54+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/Quick_Nav/Order_regular_desktop.jpg"
+[2015-02-16T13:55:54+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:55:54+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/Quick_Nav/Order_hover_desktop.jpg"
+[2015-02-16T13:55:54+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:55:54+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/Quick_Nav/Card_regular_desktop.jpg"
+[2015-02-16T13:55:54+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:55:54+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/Quick_Nav/Card_hover_desktop.jpg"
+[2015-02-16T13:55:54+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:55:54+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:55:54+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:55:54+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/Breakfast_menu_desktop.jpg"
+[2015-02-16T13:55:54+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:55:54+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/Lunch_menu_desktop.jpg"
+[2015-02-16T13:55:54+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:55:54+0200] [WARNING] Loading mixed (insecure) display content on a secure page "http://cdn.agilitycms.com/pretamanger-usa/Homepage/Drinks_menu_desktop.jpg"
+[2015-02-16T13:55:58+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:09+0200] [WARNING] Unknown property '-moz-osx-font-smoothing'.  Declaration dropped.
+[2015-02-16T13:56:09+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:09+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:09+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:09+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:09+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:09+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:09+0200] [WARNING] Unknown property 'user-select'.  Declaration dropped.
+[2015-02-16T13:56:09+0200] [WARNING] Unknown property 'touch-action'.  Declaration dropped.
+[2015-02-16T13:56:09+0200] [WARNING] Error in parsing value for 'cursor'.  Declaration dropped.
+[2015-02-16T13:56:09+0200] [WARNING] Unknown property 'zoom'.  Declaration dropped.
+[2015-02-16T13:56:09+0200] [WARNING] Unknown property '-moz-osx-font-smoothing'.  Declaration dropped.
+[2015-02-16T13:56:09+0200] [WARNING] Unknown property '-moz-osx-font-smoothing'.  Declaration dropped.
+[2015-02-16T13:56:09+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:09+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:09+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property '-moz-background-size'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-inner-spin-button'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-search-cancel-button'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Expected color but found 'auto'.  Expected color but found '-webkit-focus-ring-color'.  Expected end of value but found '-webkit-focus-ring-color'.  Error in parsing value for 'outline'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'padding-bottom'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Expected end of value but found '\9 '.  Error in parsing value for 'margin-top'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Expected color but found 'auto'.  Expected color but found '-webkit-focus-ring-color'.  Expected end of value but found '-webkit-focus-ring-color'.  Error in parsing value for 'outline'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown pseudo-class or pseudo-element '-ms-input-placeholder'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-input-placeholder'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property 'user-select'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Expected color but found 'auto'.  Expected color but found '-webkit-focus-ring-color'.  Expected end of value but found '-webkit-focus-ring-color'.  Error in parsing value for 'outline'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property '-moz-osx-font-smoothing'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property 'zoom'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Expected end of value but found '\9 '.  Error in parsing value for 'background-color'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Unrecognized at-rule or error parsing at-rule '@-moz-viewport'.
+[2015-02-16T13:56:10+0200] [WARNING] Unrecognized at-rule or error parsing at-rule '@viewport'.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'font'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:10+0200] [WARNING] Error in parsing value for 'font'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:10+0200] [WARNING] Use of Mutation Events is deprecated. Use MutationObserver instead.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property '-moz-border-radius-topleft'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property '-moz-border-radius-bottomleft'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property '-moz-border-radius-topright'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property '-moz-border-radius-bottomright'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Error in parsing value for 'cursor'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Error in parsing value for 'bottom'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property '-moz-background-size'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'blur('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:11+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:11+0200] [WARNING] Unknown property '-moz-background-size'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Error in parsing value for 'text-shadow'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:11+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:11+0200] [WARNING] Expected media feature name but found '-o-min-device-pixel-ratio'.
+[2015-02-16T13:56:11+0200] [WARNING] Expected media feature name but found 'min-device-pixel-ratio'.
+[2015-02-16T13:56:11+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:11+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:11+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:11+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:11+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:11+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:11+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:11+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:11+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:11+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:11+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:11+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:11+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:11+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:11+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:12+0200] [WARNING] Use of getAttributeNode() is deprecated. Use getAttribute() instead.
+[2015-02-16T13:56:12+0200] [WARNING] Use of attributes' specified attribute is deprecated. It always returns true.
+[2015-02-16T13:56:12+0200] [WARNING] Empty string passed to getElementById().
+[2015-02-16T13:56:15+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:18+0200] [WARNING] Unknown property '-moz-osx-font-smoothing'.  Declaration dropped.
+[2015-02-16T13:56:18+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:18+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:18+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:18+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:18+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:18+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:18+0200] [WARNING] Unknown property 'user-select'.  Declaration dropped.
+[2015-02-16T13:56:18+0200] [WARNING] Unknown property 'touch-action'.  Declaration dropped.
+[2015-02-16T13:56:18+0200] [WARNING] Error in parsing value for 'cursor'.  Declaration dropped.
+[2015-02-16T13:56:18+0200] [WARNING] Unknown property 'zoom'.  Declaration dropped.
+[2015-02-16T13:56:18+0200] [WARNING] Unknown property '-moz-osx-font-smoothing'.  Declaration dropped.
+[2015-02-16T13:56:18+0200] [WARNING] Unknown property '-moz-osx-font-smoothing'.  Declaration dropped.
+[2015-02-16T13:56:18+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:18+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:18+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-inner-spin-button'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-search-cancel-button'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Expected color but found 'auto'.  Expected color but found '-webkit-focus-ring-color'.  Expected end of value but found '-webkit-focus-ring-color'.  Error in parsing value for 'outline'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Error in parsing value for 'padding-bottom'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Expected end of value but found '\9 '.  Error in parsing value for 'margin-top'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Expected color but found 'auto'.  Expected color but found '-webkit-focus-ring-color'.  Expected end of value but found '-webkit-focus-ring-color'.  Error in parsing value for 'outline'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Unknown pseudo-class or pseudo-element '-ms-input-placeholder'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-input-placeholder'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Unknown property 'user-select'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Expected color but found 'auto'.  Expected color but found '-webkit-focus-ring-color'.  Expected end of value but found '-webkit-focus-ring-color'.  Error in parsing value for 'outline'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Unknown property '-moz-osx-font-smoothing'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Unknown property 'zoom'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Expected end of value but found '\9 '.  Error in parsing value for 'background-color'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Unrecognized at-rule or error parsing at-rule '@-moz-viewport'.
+[2015-02-16T13:56:19+0200] [WARNING] Unrecognized at-rule or error parsing at-rule '@viewport'.
+[2015-02-16T13:56:19+0200] [WARNING] Error in parsing value for 'font'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:19+0200] [WARNING] Error in parsing value for 'font'.  Declaration dropped.
+[2015-02-16T13:56:19+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:19+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Unknown property '-moz-background-size'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:20+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:21+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:21+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:21+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:21+0200] [WARNING] Use of Mutation Events is deprecated. Use MutationObserver instead.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property '-moz-border-radius-topleft'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property '-moz-border-radius-bottomleft'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property '-moz-border-radius-topright'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property '-moz-border-radius-bottomright'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Error in parsing value for 'cursor'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Error in parsing value for 'bottom'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property '-moz-background-size'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'blur('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:22+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:22+0200] [WARNING] Unknown property '-moz-background-size'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Error in parsing value for 'text-shadow'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:22+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:23+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:23+0200] [WARNING] Expected media feature name but found '-o-min-device-pixel-ratio'.
+[2015-02-16T13:56:23+0200] [WARNING] Expected media feature name but found 'min-device-pixel-ratio'.
+[2015-02-16T13:56:23+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:23+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:23+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:23+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:23+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:23+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:23+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:23+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:23+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:23+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:23+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:23+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:23+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:23+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:23+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:26+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property '-moz-osx-font-smoothing'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property 'user-select'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property 'touch-action'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'cursor'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property 'zoom'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property '-moz-osx-font-smoothing'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property '-moz-osx-font-smoothing'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-inner-spin-button'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-search-cancel-button'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected color but found 'auto'.  Expected color but found '-webkit-focus-ring-color'.  Expected end of value but found '-webkit-focus-ring-color'.  Error in parsing value for 'outline'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'padding-bottom'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected end of value but found '\9 '.  Error in parsing value for 'margin-top'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected color but found 'auto'.  Expected color but found '-webkit-focus-ring-color'.  Expected end of value but found '-webkit-focus-ring-color'.  Error in parsing value for 'outline'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown pseudo-class or pseudo-element '-ms-input-placeholder'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-input-placeholder'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property 'user-select'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected color but found 'auto'.  Expected color but found '-webkit-focus-ring-color'.  Expected end of value but found '-webkit-focus-ring-color'.  Error in parsing value for 'outline'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property '-moz-osx-font-smoothing'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property 'zoom'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected end of value but found '\9 '.  Error in parsing value for 'background-color'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Unrecognized at-rule or error parsing at-rule '@-moz-viewport'.
+[2015-02-16T13:56:30+0200] [WARNING] Unrecognized at-rule or error parsing at-rule '@viewport'.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'font'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Found trailing token after pseudo-element, which must be the last part of a selector:  ':'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'font'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected '(' to start media query expression but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Expected ',' in media list but found 'only'.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property '-moz-background-size'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Expected 'none' or URL but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:30+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Use of Mutation Events is deprecated. Use MutationObserver instead.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property '-moz-border-radius'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property '-moz-border-radius-topleft'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property '-moz-border-radius-bottomleft'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property '-moz-border-radius-topright'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property '-moz-border-radius-bottomright'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Error in parsing value for 'cursor'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Error in parsing value for 'bottom'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property '-moz-background-size'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'blur('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Expected declaration but found '*'.  Skipped to next declaration.
+[2015-02-16T13:56:31+0200] [WARNING] Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property 'box-sizing'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector.
+[2015-02-16T13:56:31+0200] [WARNING] Unknown property '-moz-background-size'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Error in parsing value for 'text-shadow'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:31+0200] [WARNING] Error in parsing value for 'background-image'.  Declaration dropped.
+[2015-02-16T13:56:32+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:32+0200] [WARNING] Expected media feature name but found '-o-min-device-pixel-ratio'.
+[2015-02-16T13:56:32+0200] [WARNING] Expected media feature name but found 'min-device-pixel-ratio'.
+[2015-02-16T13:56:32+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:32+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:32+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:32+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:32+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:32+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:32+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:32+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:32+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:32+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:32+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:32+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:32+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:32+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:32+0200] [WARNING] Expected media feature name but found '-webkit-min-device-pixel-ratio'.
+[2015-02-16T13:56:32+0200] [WARNING] Use of getAttributeNode() is deprecated. Use getAttribute() instead.
+[2015-02-16T13:56:32+0200] [WARNING] Use of attributes' specified attribute is deprecated. It always returns true.
+[2015-02-16T13:56:35+0200] [WARNING] Error in parsing value for 'background'.  Declaration dropped.

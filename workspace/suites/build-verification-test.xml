@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="[NIGHTLY BUILD]" verbose="1" parallel="tests"
+	thread-count="4">
+
+	<test name="TC_PAM_192_Logo">
+		<classes>
+			<class name="com.ecm.webautomation.pret.tests.BuildVerificationTestCases">
+				<methods>
+					<include name="TC_PAM_192_Logo"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="TC_PAM_195_Cookie_Policy">
+		<classes>
+			<class name="com.ecm.webautomation.pret.tests.BuildVerificationTestCases">
+				<methods>
+					<include name="TC_PAM_195_Cookie_Policy"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="TC_PAM_196_Country_N_LanguageSelector">
+		<classes>
+			<class name="com.ecm.webautomation.pret.tests.BuildVerificationTestCases">
+				<methods>
+					<include name="TC_PAM_196_Country_N_LanguageSelector"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="TC_PAM_197_HeaderLinks">
+		<classes>
+			<class name="com.ecm.webautomation.pret.tests.BuildVerificationTestCases">
+				<methods>
+					<include name="TC_PAM_197_HeaderLinks"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="TC_PAM_198_SocialIcons">
+		<classes>
+			<class name="com.ecm.webautomation.pret.tests.BuildVerificationTestCases">
+				<methods>
+					<include name="TC_PAM_198_SocialIcons"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="TC_PAM_201_MegaMenu">
+		<classes>
+			<class name="com.ecm.webautomation.pret.tests.BuildVerificationTestCases">
+				<methods>
+					<include name="TC_PAM_201_MegaMenu"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="TC_PAM_204_CampaignMonitor">
+		<classes>
+			<class name="com.ecm.webautomation.pret.tests.BuildVerificationTestCases">
+				<methods>
+					<include name="TC_PAM_204_CampaignMonitor"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="TC_PAM_205_StandardSoupPage">
+		<classes>
+			<class name="com.ecm.webautomation.pret.tests.BuildVerificationTestCases">
+				<methods>
+					<include name="TC_PAM_205_StandardSoupPage"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+</suite>

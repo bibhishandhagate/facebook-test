@@ -1,0 +1,15 @@
+#surefire
+#Mon Feb 16 13:55:35 EET 2015
+seleniumBrowser=firefox
+user.dir=/var/lib/jenkins/jobs/pret-nightly-execution/workspace
+localRepository=/var/lib/jenkins/.m2/repository
+org.apache.maven.global-settings=/var/lib/jenkins/m2-env/settings.xml
+basedir=/var/lib/jenkins/jobs/pret-nightly-execution/workspace
+LOCALE=en-us
+STOREFRONT=www.pret-us.sandbox.orderdynamics.net/
+storefront.host=www.pret-us.sandbox.orderdynamics.net/
+BROWSER=firefox
+STOREFRONTPATH=en-us
+maven.test.failure.ignore=true
+storefront.path=en-us
+SCENARIO=nightly-build
